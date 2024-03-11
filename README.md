@@ -3,11 +3,11 @@
 ### About Me:
 - 🎓 Electronics and Communications Engineer
 
-- 📫 Contact **josepp2508@gmail.com**
+- 📫 Contact **pepe@whit3roofstudios.com**
 
 - 🕹️ Game dev hobbyist
 
-- 📚 Currently learning data science
+- 📚 Web Developer
 
 
 <!--Languages and Tools Section-->       
