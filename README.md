@@ -5,7 +5,7 @@
 
 - 📫 Contact **pepe@whit3roofstudios.com**
 
-- 🕹️ Game dev hobbyist
+- 🕹️ Game Developer
 
 - 📚 Web Developer
 
