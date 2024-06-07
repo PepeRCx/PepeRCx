@@ -7,7 +7,7 @@
 
 - 🕹️ Game Developer
 
-- 📚 Web Developer
+- 📚 App & Web Developer
 
 
 <!--Languages and Tools Section-->       
