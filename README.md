@@ -3,7 +3,7 @@
 ### About Me:
 - 🎓 Electronics and Communications Engineer
 
-- 📫 Contact **josepp2508@gmail.com**
+- 📫 Contact **pepercx@proton.me**
 
 - 🕹️ Game Developer Hobbyist
 
