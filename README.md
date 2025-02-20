@@ -11,5 +11,5 @@
 </p>
 <h3 align="center">Tools</h3>
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=vscode,pycharm,docker,postgres,firebase,figma,godot,linux,postman,bash&perline=10"  />
+<img width="450px"  src="https://skillicons.dev/icons?i=docker,vscode,pycharm,postgres,firebase,nodejs,figma,godot,linux,ubuntu,bash,notion,postman&perline=8"  />
 </p>
