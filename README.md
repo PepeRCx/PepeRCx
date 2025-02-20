@@ -16,7 +16,7 @@
 <img width="300px"  src="https://skillicons.dev/icons?i=py,js,cs,bash&perline=10"  />
 </p>
 <br />
-<h3>Tools</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
 <img width="300px"  src="https://skillicons.dev/icons?i=docker,postgres,firebase,figma,godot,linux,postman&perline=10"  />
 </p>
