@@ -2,6 +2,7 @@
 
 ### About Me:
 - 🎓 Electronics and Communications Engineer
+- 🔧 Fullstack developer
 - 📫 Contact **pepercx@proton.me**
 
 <!--Languages and Tools Section-->       
