@@ -12,7 +12,7 @@
 </p>
 <h3 align="center">Tools</h3>
 <p align="center">
-<img width="450px"  src="https://skillicons.dev/icons?i=docker,aws,redis,vscode,pycharm,neovim,postgres,nodejs,express,mongodb,firebase,supabase,vite,figma,flutter,react,godot,linux,ubuntu,debian,bash,notion,postman&perline=8"  />
+<img width="450px"  src="https://skillicons.dev/icons?i=docker,neovim,bun,nodejs,cloudflare,aws,express,redis,postgres,mongodb,firebase,supabase,vite,flutter,react,tailwind,godot,linux,bash,&perline=8"  />
 </p>
 
 ### &#x1f4c8; GitHub Stats
