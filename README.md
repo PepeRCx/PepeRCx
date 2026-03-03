@@ -8,7 +8,7 @@
 <!--Languages and Tools Section-->       
 <h3 align="center">Lᴀɴɢᴜᴀɢᴇs</h3> 
 <p align="center">
-<img width="200px"  src="https://skillicons.dev/icons?i=py,js,ts,dart&perline=4"  />
+<img width="200px"  src="https://skillicons.dev/icons?i=go,js,ts&perline=4"  />
 </p>
 <h3 align="center">Tools</h3>
 <p align="center">
