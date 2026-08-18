@@ -8,11 +8,11 @@
 <!--Languages and Tools Section-->       
 <h3 align="center">Lᴀɴɢᴜᴀɢᴇs</h3> 
 <p align="center">
-<img width="200px"  src="https://skillicons.dev/icons?i=kotlin,js,ts&perline=4"  />
+<img width="200px"  src="https://skillicons.dev/icons?i=kotlin,ts,java&perline=4"  />
 </p>
 <h3 align="center">Tools</h3>
 <p align="center">
-<img width="450px"  src="https://skillicons.dev/icons?i=docker,neovim,bun,nodejs,cloudflare,aws,express,redis,postgres,mongodb,firebase,supabase,vite,flutter,react,tailwind,godot,linux,bash,&perline=8"  />
+<img width="450px"  src="https://skillicons.dev/icons?i=docker,neovim,nodejs,cloudflare,aws,spring,ktor,nestjs,redis,postgres,mongodb,firebase,supabase,flutter,react,androidstudio,godot,linux,bash,&perline=8"  />
 </p>
 
 ### &#x1f4c8; GitHub Stats
