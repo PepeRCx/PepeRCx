@@ -1,9 +1,14 @@
 ## Hi there, i'm Pepe 👋
 
 ### About Me:
-- 🎓 Electronics and Communications Engineer
-- 🔧 Fullstack developer
-- 📫 Contact **pepercx@proton.me**
+
+```json
+{
+  "degree": "communications and electronics engineering",
+  "role": "fullstack software engineer",
+  "contact": "pepercx@proton.me"
+}
+```
 
 <!--Languages and Tools Section-->       
 <h3 align="center">Lᴀɴɢᴜᴀɢᴇs</h3> 
