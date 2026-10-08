@@ -13,7 +13,7 @@
 <!--Languages and Tools Section-->       
 <h3 align="center">Lᴀɴɢᴜᴀɢᴇs</h3> 
 <p align="center">
-<img width="200px"  src="https://skillicons.dev/icons?i=kotlin,ts,java&perline=4"  />
+<img width="200px"  src="https://skillicons.dev/icons?i=kotlin,ts,python&perline=4"  />
 </p>
 <h3 align="center">Tools</h3>
 <p align="center">
