@@ -17,7 +17,7 @@
 </p>
 <h3 align="center">Tools</h3>
 <p align="center">
-<img width="450px"  src="https://skillicons.dev/icons?i=docker,neovim,nodejs,cloudflare,aws,spring,ktor,nestjs,redis,postgres,mongodb,firebase,supabase,flutter,react,androidstudio,godot,linux,bash,githubactions&perline=8"  />
+<img width="450px"  src="https://skillicons.dev/icons?i=docker,neovim,nodejs,cloudflare,aws,ktor,nestjs,redis,postgres,mongodb,firebase,supabase,flutter,react,androidstudio,godot,linux,bash,githubactions&perline=8"  />
 </p>
 
 ### &#x1f4c8; GitHub Stats
